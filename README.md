@@ -1,6 +1,6 @@
 # About Me:
 
-\- 💼 Working full-time as SWE<br>- 🚀 Web and mobile app developer<br>- 💻 TypeScript and OSS fan<br>- 📱 Learning Flutter and SwiftUI<br>- 🎨 practicing with UI design<br>
+\- 💼 Working full-time as SWE<br>- 🚀 Web and mobile app developer<br>- 💻 TypeScript and OSS fan<br>- 📱 Learning Flutter and SwiftUI<br>- 🎨 Practicing with UI design<br>
 
 ## Socials:
 
