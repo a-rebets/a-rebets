@@ -1,6 +1,6 @@
 # About Me:
 
-\- 🐧 Working full-time with Linux<br>- 🚀 Web and mobile app developer<br>- 💻 TypeScript fan and Trigger.dev early adopter / contributor<br>- 📱 Learning Flutter and SwiftUI<br>- 🎨 UI design lover<br>
+\- 💼 Working full-time as SWE<br>- 🚀 Web and mobile app developer<br>- 💻 TypeScript and OSS fan<br>- 📱 Learning Flutter and SwiftUI<br>- 🎨 practicing with UI design<br>
 
 ## Socials:
 
