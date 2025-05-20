@@ -4,7 +4,8 @@
 
 ## Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/artemrebets)
+[![Follow me on X](https://img.shields.io/badge/Follow%20on%20X-%23000000.svg?logo=x&logoColor=white)](https://x.com/a_rebets)
+
 
 ## Tech Stack:
 
